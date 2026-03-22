@@ -8,3 +8,4 @@ Release/
 *.suo
 *.pdb
 *.ilk
+vcpkg_installed/

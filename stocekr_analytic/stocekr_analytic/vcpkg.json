@@ -1,7 +1,0 @@
-{
-  "dependencies": [
-    "crow",
-    "nlohmann-json",
-    "curl"
-  ]
-}
